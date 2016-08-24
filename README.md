@@ -10,4 +10,4 @@ When you're done installing Homebrew, you can verify everything worked by typing
 
 Verify that Python installed correctly by simply typing python at the command line. You should be greeted by the Python Shell.
 
-![alt text](/Users/BennettIronYard/Desktop/MovieTrailer.jpg "Preview of Movie Trailer")
+![movietrailer](https://cloud.githubusercontent.com/assets/14653058/17931175/08fc05f8-69d8-11e6-872c-1fd2987a0f5b.jpg)
