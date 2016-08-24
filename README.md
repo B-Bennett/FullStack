@@ -9,3 +9,5 @@ Open up your terminal and enter the following command: /usr/bin/ruby -e "$(curl 
 When you're done installing Homebrew, you can verify everything worked by typing the brew help command at the command line. Now, just type brew install python to get the latest version of Python 2. That's all there is to it!
 
 Verify that Python installed correctly by simply typing python at the command line. You should be greeted by the Python Shell.
+
+![alt text](/Users/BennettIronYard/Desktop/MovieTrailer.jpg "Preview of Movie Trailer")
